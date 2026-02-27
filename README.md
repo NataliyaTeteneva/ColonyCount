@@ -1,7 +1,5 @@
 # ColonyCount
 an ImageJ script to count colonies on Petri dishes
-README
-
 Colony counting ImageJ Macro version 2
 
 User manual
